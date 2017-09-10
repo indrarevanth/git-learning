@@ -1,1 +1,1 @@
-print "this is just testing"
+print "Learning GIT"
